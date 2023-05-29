@@ -38,7 +38,7 @@
           <div class="row justify-content-center">
             <div class="col-md-8 col-lg-5 mb-6 text-center">
               <h5 class="text-danger">FIND US</h5>
-              <h2>Access us easily</h2>
+              <h2>Access Us Easily!</h2>
             </div>
             <div class="col-12">
               <div class="card card-span rounded-2 mb-3">
