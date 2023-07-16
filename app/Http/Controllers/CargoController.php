@@ -36,6 +36,7 @@ Cargo::create ([
         'cargo_status'=>$request->cargo_status,
  ]);
  
+ 
     return redirect()->route('cargo.type');
 }
 
